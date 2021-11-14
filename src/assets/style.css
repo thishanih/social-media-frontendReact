@@ -1,0 +1,88 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,500;0,700;1,200&display=swap");
+
+.mar-4 {
+  margin-top: 30px;
+}
+
+.logo {
+  width: 120px;
+}
+.nav-personImage {
+  width: 50px;
+}
+.nav-personName {
+  font-size: 16px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+}
+
+.contact-heading {
+  font-size: 20px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  text-align: center;
+}
+
+.contact-image {
+  width: 100px;
+  border-radius: 50%;
+}
+.contact-username {
+  font-size: 16px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+}
+
+.contact-email {
+  font-size: 12px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  color: #52616b;
+}
+
+.contact-phone {
+  font-size: 12px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  color: #52616b;
+}
+
+.lorem-heading {
+  font-size: 20px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+}
+
+.lorem-image {
+  width: 240px;
+}
+.lorem-author {
+  font-size: 16px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+}
+
+.News-space {
+  margin-top: 20px;
+}
+
+.News-heading {
+  font-size: 20px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+.News-Title {
+  font-size: 20px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  text-align: left;
+}
+.News-Message {
+  font-size: 12px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  text-align: left;
+}
